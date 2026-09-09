@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and runtime output
+*.log
+logs/
+
+# Build and test artifacts
+dist/
+build/
+coverage/
+.cache/
+.tmp/
+tmp/
+
+# Prisma generated files
+.prisma/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
