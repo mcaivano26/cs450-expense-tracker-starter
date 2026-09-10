@@ -47,11 +47,8 @@ Install the following before starting:
 
 ### Create your project copy
 
-The instructor starter repository is `YOUR-GITHUB-USERNAME/cs450-expense-tracker-starter`.
-
-1. Open [cs450-expense-tracker-starter](https://github.com/YOUR-GITHUB-USERNAME/cs450-expense-tracker-starter) on GitHub.
-2. Click **Fork** and create the fork in your own account or team organization. Forking creates your GitHub copy; it does not download the files to your computer.
-3. Clone your fork, replacing `YOUR-GITHUB-USERNAME` with the account or organization that owns your fork:
+1. Click **Fork** and create the fork in your own account or team organization. Forking creates your GitHub copy; it does not download the files to your computer.
+2. Clone your fork, replacing `YOUR-GITHUB-USERNAME` with the account or organization that owns your fork:
 
 ```bash
 git clone https://github.com/YOUR-GITHUB-USERNAME/cs450-expense-tracker-starter.git
